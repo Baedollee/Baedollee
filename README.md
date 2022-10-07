@@ -9,7 +9,8 @@
 <h4>Frontend: React(Vanilla JS)</h4>
 <h3>📫Contact</h3>
 <p>
-  <a href="https://velog.io/@baedollee" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<!--   블로그, 메일 -->
+<!--   <a href="https://velog.io/@baedollee" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a> -->
   <a href="mailto:baesee0401@gmail.com" target="_blank"><img src="https://img.shields.io/badge/baesee0401@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
