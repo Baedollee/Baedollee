@@ -23,12 +23,12 @@
   <img src="https://img.shields.io/badge/SCSS-fd79a8?style=flat-square&logo=Sass&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/></a>
 <br><img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> -->
 <br>
 <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
-<h4>Backend<h4>
-<img src="https://img.shields.io/badge/NodeJS-{배경 색깔}?style={스타일}&logo=Node.js&logoColor=ffffff"/> 
+<!-- <h4>Backend<h4>
+<img src="https://img.shields.io/badge/NodeJS-{배경 색깔}?style={스타일}&logo=Node.js&logoColor=ffffff"/>  -->
 </div>
 
 
