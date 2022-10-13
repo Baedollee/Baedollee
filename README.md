@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Baedollee&fontAlign=70&fontAlignY=40&animation=twinkling)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baedollee&show_icons=true&theme=radical)
 
   
